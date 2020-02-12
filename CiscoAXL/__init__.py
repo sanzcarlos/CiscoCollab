@@ -1,0 +1,12 @@
+__all__ = ['cspaxl_version',
+           'cspaxl_CalledPartyTransformationPattern',
+           'cspaxl_CallingPartyTransformationPattern',
+           'cspaxl_DevicePool',
+           'cspaxl_LdapSync',
+           'cspaxl_Line',
+           'cspaxl_Location',
+           'cspaxl_Phone',
+           'cspaxl_ProcessNode',
+           'cspaxl_TransPattern',
+           'cspaxl_User',
+           ]
